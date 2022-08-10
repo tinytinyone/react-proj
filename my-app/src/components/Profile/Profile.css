@@ -1,0 +1,87 @@
+.Profile {
+  grid-area: c;
+  margin-left: 40px;
+}
+
+.Profile__ava-text {
+  display: flex;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.Profile__text {
+  margin-left: 30px;
+  font-family: cursive;
+  font-size: 18px;
+}
+
+.Profile__img {
+  border-radius: 30px;
+  margin-top: 20px;
+}
+
+.Profile__content {
+  border: 3px solid rgb(134, 132, 245);
+  border-radius: 13em 0.5em/1em 4.5em;
+  margin-top: 20px;
+}
+
+.Profile__text-user {
+  font-weight: 900;
+  font-family: cursive;
+  font-size: 18px;
+  margin-left: 30px;
+}
+
+.posts {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  font-weight: 500;
+  font-size: 18px;
+  font-family: cursive;
+}
+
+.post {
+  width: 740px;
+  margin-top: 30px;
+  margin-left: 30px;
+  border-radius: 10px;
+}
+
+.post__heading {
+  margin-left: 40px;
+}
+
+.Profile__button {
+  float: right;
+  margin-right: 175px;
+  margin-top: 15px;
+  color: aliceblue;
+  background-color: rgb(134, 132, 245);
+  height: 30px;
+  width: 80px;
+  border-radius: 10px;
+  border: 0;
+}
+
+
+.item {
+  display: flex;
+  margin-left: 25px;
+}
+
+
+.post_pic {
+  height: 45px;
+  width: 45px;
+  background-color: rgb(192, 191, 247);
+  border-radius: 50%;
+}
+
+.post__text {
+  color: rgb(2, 2, 7);
+  margin-top: 8px;
+  margin-left: 30px;
+}
+
