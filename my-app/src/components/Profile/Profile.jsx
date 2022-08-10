@@ -32,7 +32,7 @@ function Profile() {
         <div className='posts'>
           <div className='item'>
             <div className='post_pic'></div>
-            <span className='post__text'>Hi! How are you?</span>
+            <span className='post__text'>Hello! How are you?</span>
           </div>
           <div className='item'>
             <div className='post_pic'></div>
