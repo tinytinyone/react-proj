@@ -7,10 +7,14 @@
   margin-top: 20px;
 }
 
-.item {
-  color: white;
+.item a{
   padding: 8px;
   font-weight: 500;
   font-family: cursive;
   font-size: 18px;
+  text-decoration: none;
+}
+
+.active-link {
+  color: gold;
 }
