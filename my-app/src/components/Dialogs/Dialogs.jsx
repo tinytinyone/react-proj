@@ -20,7 +20,7 @@ let DialogsData = [
 ]
 
 let MessagesData = [
-    { id: 0, message: 'Hi' },
+    { id: 0, message: 'Hi!' },
     { id: 1, message: 'How are you?' }
 ]
 
